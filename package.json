@@ -1,0 +1,13 @@
+{
+  "name": "matteocrippa",
+  "version": "0.0.1",
+  "description": "Matteo Crippa Card",
+  "main": "index.js",
+  "bin": "./cli.js",
+  "keywords": [],
+  "author": "Matteo Crippa @matteocrippa",
+  "license": "ISC",
+  "dependencies": {
+    "prettyjson": "^1.2.5"
+  }
+}
